@@ -96,6 +96,10 @@ Je vraagt om een productstrategie en de `product-strategie` skill wordt geladen.
 
 Het verschil met een gewone prompt: de skill vraagt door. Je krijgt geen standaardantwoord maar een gesprek. De skill stelt gerichte vragen over jouw situatie, jouw klant, jouw markt. Pas als het genoeg context heeft, komt het resultaat.
 
+![Voorbeeld: de klantinterview skill in actie](assets/klantinterview-voorbeeld.png)
+
+*De klantinterview skill stelt gerichte vragen over je doelgroep, fase en eerdere gesprekken. Op basis daarvan krijg je een volledig interviewscript met doorvraagtechnieken.*
+
 Skills staan los van elkaar. Geen afhankelijkheden. Je kunt ze individueel gebruiken.
 
 ## Installatie
