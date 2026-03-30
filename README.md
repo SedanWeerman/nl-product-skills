@@ -1,8 +1,25 @@
+[![GitHub stars](https://img.shields.io/github/stars/Stefan-Wesemann/nl-product-skills?style=flat-square)](https://github.com/Stefan-Wesemann/nl-product-skills/stargazers)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](LICENSE)
+[![Skills](https://img.shields.io/badge/skills-34-brightgreen?style=flat-square)](#skills)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![Taal](https://img.shields.io/badge/taal-Nederlands-orange?style=flat-square)](#)
+
 # 🇳🇱 NL Product Skills
 
 Eigenlijk liep ik er steeds tegenaan. Ik vroeg AI om hulp bij productwerk en kreeg antwoorden die... oké waren. Generiek. Een beetje alsof je een stagiair vraagt om een concurrentieanalyse en je krijgt een samenvatting van de Wikipedia-pagina terug. Niet fout, maar ook niet bruikbaar.
 
 Dus heb ik frameworks die ik jarenlang heb gebruikt (FORCES, Blue Ocean, The Mom Test) vastgelegd op een manier die AI begrijpt. Nederlandstalig, met Nederlandse context, geen vertalingen van Engelstalige templates. Het resultaat: een AI-assistent die doorvraagt in plaats van een generiek lijstje teruggeeft.
+
+<!-- HERO IMAGE: plaats hier je visual, bijv. hero-image.png -->
+<!-- ![NL Product Skills](.docs/images/hero.png) -->
+
+## Wat is er nieuw
+
+**v2.0 — maart 2026: 34 skills (was 18)**
+
+16 nieuwe skills toegevoegd: business model canvas, lean canvas, personas, OKR's, retro's, WSJF-prioritering, klantreis, outcome roadmap, ideaal klantprofiel, metrics dashboard, testscenario's, user stories, ideeën voor bestaand product, marketingideeën, verdienmodel en opportunity solution tree.
+
+Elke skill wordt nog individueel verbeterd in komende updates.
 
 ## Over mij
 
@@ -38,6 +55,8 @@ Niet zeker welke skill je nodig hebt? Dit helpt.
 
 **Je wilt weten wat er mis kan gaan.** `pre-mortem`. Bedenk voor de lancering wat mislukt en waarom. Tigers, Paper Tigers en Elephants. Zodat je weet wat je echt moet fixen en wat je kunt laten liggen.
 
+**Je wilt je team beter laten samenwerken.** `retro` voor een gestructureerde retrospective. `okrs-formuleren` om doelen scherp te krijgen. `user-stories` voor het backlog.
+
 ## Skills
 
 ### Strategie
@@ -51,6 +70,9 @@ Niet zeker welke skill je nodig hebt? Dit helpt.
 | `concurrentie-analyse` | 3 concurrenten diep, moat-analyse, relatieve positie |
 | `prijsstrategie` | Modelkeuze, Van Westendorp, AI-kostenmodel |
 | `product-visie` | Korte, begrijpbare productvisie. Intern gericht |
+| `verdienmodel` | 7 verdienmodellen, evaluatiematrix, validatie-experiment per model |
+| `business-model-canvas` | Osterwalder 9 bouwstenen, samenhang-check, canvas layout |
+| `lean-canvas` | Ash Maurya 9 blokken in voorgeschreven vulvolgorde, aanname-identificatie |
 
 ### Discovery
 
@@ -60,6 +82,10 @@ Niet zeker welke skill je nodig hebt? Dit helpt.
 | `aannames-bedenken` | Twee paden (nieuw/bestaand), multi-perspectief, Leverage hypotheses |
 | `experiment-ontwerp` | Pretotyping & A/B tests, YODA principle, success thresholds |
 | `doelgroepkeuze-primair` | 4 criteria, smallest viable audience, gedragssegmentatie |
+| `ideaal-klantprofiel` | 5-stappen van beste klanten naar ICP-statement, disqualificatie-criteria |
+| `personas` | Patroon-gebaseerde persona's uit onderzoeksdata, JTBD-gestructureerd |
+| `klantreis` | 7 fases (bewustwording → aanbeveling), touchpoints, emoties, critical moments |
+| `opportunity-solution-tree` | Teresa Torres: outcome → opportunities → solutions → experiments |
 
 ### Executie
 
@@ -69,12 +95,28 @@ Niet zeker welke skill je nodig hebt? Dit helpt.
 | `stakeholder-map` | Mapping + prioritering, Power × Interest grid |
 | `pre-mortem` | Tigers / Paper Tigers / Elephants, risico-triage |
 | `go-to-market` | FORCES per levenscyclusfase, StoryBrand messaging, STEPPS |
+| `user-stories` | 3 C's (Card, Conversation, Confirmation), INVEST-check, story splitting |
+| `testscenarios` | 4 categorieën (happy path, edge, error, boundary), Gegeven/Wanneer/Dan |
+| `okrs-formuleren` | Doerr-style OKR's, van bedrijfsdoel naar team key results, kwaliteitscheck |
+| `wsjf-prioritering` | WSJF-formule, 4 scoringsdimensies, team-scoring facilitatie |
+| `outcome-roadmap` | Now/Next/Later én kwartaalformaat, feature→outcome vertaling |
+| `ideeen-bestaand-product` | Multi-perspectief ideatie (PM/Designer/Engineer), probleem-eerst, scoringsmatrix |
 
-### Analyse
+### Analyse & Groei
 
 | Skill | Wat het doet |
 |---|---|
 | `swot-analyse` | Gerichte vragen, cross-referentie matrix, Seven Powers lens |
+| `metrics-dashboard` | Metric-piramide (NSM → input → operationeel), visualisatiekeuze, alerts |
+| `marketingideeen` | 5 concrete ideeën, owned/earned/paid, Nederlandse marktcontext |
+
+### Meta
+
+| Skill | Wat het doet |
+|---|---|
+| `retro` | 6 formats (Start/Stop/Continue, 4L's, Sailboat, etc.), auto-selectie, facilitatieplan |
+| `ai-evals` | AI-kwaliteit meten, evaluatie-frameworks |
+| `discovery-plan` | Gestructureerd discovery-plan opzetten |
 
 ## Hoe werkt het
 
@@ -89,7 +131,7 @@ Je vraagt om een productstrategie, de `product-strategie` skill wordt geladen. J
 ### Claude Code
 
 ```bash
-claude plugin marketplace add SedanWeerman/nl-product-skills
+claude plugin marketplace add Stefan-Wesemann/nl-product-skills
 claude plugin install nl-product-skills
 ```
 
@@ -113,6 +155,10 @@ Deze skills bouwen voort op:
 - **StoryBrand** (Donald Miller) voor messaging
 - **Contagious STEPPS** (Jonah Berger) voor viraliteit
 - **AI Product Design** (MIT xPRO) voor UX-principes bij AI-producten
+- **Business Model Generation** (Osterwalder) voor business model canvas
+- **Running Lean** (Ash Maurya) voor lean canvas
+- **Continuous Discovery Habits** (Teresa Torres) voor opportunity solution tree
+- **Measure What Matters** (John Doerr) voor OKR's
 
 ## Licentie
 
