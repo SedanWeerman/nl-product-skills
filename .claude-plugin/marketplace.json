@@ -1,0 +1,19 @@
+{
+  "name": "nl-product-skills",
+  "version": "2.0.0",
+  "description": "35 Nederlandstalige product management skills voor Claude. Doorvragen in plaats van generieke antwoorden.",
+  "owner": {
+    "name": "Stefan Wesemann",
+    "url": "https://enenai.substack.com"
+  },
+  "plugins": [
+    {
+      "name": "nl-product-skills",
+      "source": ".",
+      "description": "35 Nederlandstalige product management skills. Strategie, discovery, executie en analyse. Gebaseerd op FORCES, Seven Powers, The Mom Test, JTBD en meer.",
+      "version": "2.0.0",
+      "category": "product-management",
+      "strict": false
+    }
+  ]
+}
