@@ -28,8 +28,6 @@ triggers:
 
 **Output:** Klantreis-overzicht per fase met touchpoints, emoties, pijnpunten en verbeterkansen. Plus: top 3 verbeteracties.
 
-**Duur:** 60-90 minuten. Beter met data dan zonder.
-
 ---
 
 ## Instructies

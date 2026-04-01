@@ -23,8 +23,6 @@ triggers:
 
 **Output:** Visuele boomstructuur (tekst of diagram) met outcome, 3-5 kansen, 2-3 oplossingen per kans, en 1-2 experimenten per oplossing. Plus: prioritering welke tak je eerst valideert.
 
-**Duur:** 60-90 minuten voor een goede eerste versie. De OST is een levend document — je past het aan na elk interview en experiment.
-
 ---
 
 ## Instructies
@@ -61,10 +59,11 @@ De OST beantwoordt: **"Gegeven ons gewenste outcome, welke klantproblemen bestaa
 ### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
 
 1. **Het outcome**: Wat is het gewenste resultaat dat je wilt bereiken? (Liefst meetbaar, gekoppeld aan je North Star of team-OKR)
-2. **De context**: Is dit een nieuw productgebied of een bestaand onderdeel dat je wilt verbeteren?
-3. **Bestaande kennis**: Heb je al klantinterviews gedaan? Data-inzichten? Support tickets?
-4. **Het team**: Wie werkt hier aan? PM, Design, Engineering? Doe je dit alleen of samen?
-5. **Tijdshorizon**: Hoe lang heb je voor discovery? Eén sprint, een kwartaal?
+2. **Outcome-scherpte**: Is dit outcome echt meetbaar en eenduidig? Kan je team het in één zin uitleggen? Als het outcome vaag is, ga eerst terug naar north-star-metric of okrs-formuleren.
+3. **De context**: Is dit een nieuw productgebied of een bestaand onderdeel dat je wilt verbeteren?
+4. **Bestaande kennis**: Heb je al klantinterviews gedaan? Data-inzichten? Support tickets? Hoeveel directe klantinteractie heb je gehad in de afgelopen 4 weken?
+5. **Het team**: Wie werkt hier aan? PM, Design, Engineering? Doe je dit alleen of samen?
+6. **Bestaande ideeën**: Zijn er al oplossingen waar het team verliefd op is? (Dit is belangrijk om te weten — de OST helpt juist om niet te snel naar oplossingen te springen.)
 
 Ga pas verder als je het outcome scherp hebt. Een vage outcome levert een vage boom.
 

@@ -24,8 +24,6 @@ triggers:
 
 **Output:** 2-3 team-OKRs, aligned met bedrijfsdoelen, met kwaliteitscheck en risico-inschatting.
 
-**Duur:** 60-90 minuten. OKR-setting is een gesprek, geen invuloefening.
-
 ---
 
 ## Instructies
@@ -180,13 +178,13 @@ OKRs schrijf je niet alleen. Zo voer je het gesprek met je team:
 2. Bereid per Objective 2-3 mogelijke Key Results voor
 3. Ken je baselines (huidige metrics)
 
-### Het gesprek (60-90 min met het team)
-1. **Context** (10 min): Deel bedrijfsdoelen, laat zien hoe het team daaraan bijdraagt
-2. **Brainstorm Objectives** (15 min): Welke richting heeft de meeste impact?
-3. **Kies 2-3 Objectives** (10 min): Waar gaan we op focussen?
-4. **Formuleer Key Results per Objective** (30 min): Hoe weten we dat we er zijn?
-5. **Kwaliteitscheck** (15 min): Loop de checklist door als team
-6. **Commitment** (5 min): Is dit ambitieus maar haalbaar? Zijn we aligned?
+### Het OKR-gesprek met het team
+1. **Context**: Deel bedrijfsdoelen, laat zien hoe het team daaraan bijdraagt
+2. **Brainstorm Objectives**: Welke richting heeft de meeste impact?
+3. **Kies 2-3 Objectives**: Waar gaan we op focussen?
+4. **Formuleer Key Results per Objective**: Hoe weten we dat we er zijn?
+5. **Kwaliteitscheck**: Loop de checklist door als team
+6. **Commitment**: Is dit ambitieus maar haalbaar? Zijn we aligned?
 
 **Doorvragen voor het gesprek:**
 - "Wat zou je het meest trots maken aan het eind van dit kwartaal?"

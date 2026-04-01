@@ -58,7 +58,7 @@ triggers:
 
 ### Fase 2: StoryBrand Messaging Framework
 
-Goeie messaging maakt het verschil. Je bouwt dit op één eenvoudige strukuur.
+Het StoryBrand-framework van Donald Miller structureert je messaging als een verhaal waarin de klant de held is en jij de gids. Het principe: mensen kopen niet het beste product, ze kopen het product dat ze het snelst begrijpen. StoryBrand geeft je een 7-stappen structuur om je boodschap helder te maken.
 
 **De 7 stappen (Donald Miller StoryBrand):**
 

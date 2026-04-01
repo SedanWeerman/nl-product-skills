@@ -22,8 +22,6 @@ triggers:
 
 **Output:** Uitgeschreven user stories met acceptance criteria, klaar voor de backlog.
 
-**Duur:** 15-20 minuten per story. Doe het samen met het team.
-
 ---
 
 ## Instructies

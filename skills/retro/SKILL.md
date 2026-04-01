@@ -11,6 +11,10 @@ triggers:
   - team reflectie
   - evaluatie sprint
   - retrospective faciliteren
+  - lessons learned
+  - team evaluatie
+  - continue verbetering
+  - sprint review terugblik
 ---
 
 # Retro

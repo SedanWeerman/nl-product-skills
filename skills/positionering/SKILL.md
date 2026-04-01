@@ -23,8 +23,6 @@ triggers:
 
 **Output:** 3 positioning opties (diep, niet breed), ingevulde ERRC Grid, Strategy Canvas beschrijving, aanbevolen positionering met rationale, positioneringsstatement.
 
-**Duur:** 60-90 minuten goed werk.
-
 ---
 
 ## Instructies

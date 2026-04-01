@@ -24,8 +24,6 @@ triggers:
 
 **Output:** Gestructureerde lijst van testscenario's per categorie, met verwacht gedrag en prioriteit.
 
-**Duur:** 30-45 minuten per feature.
-
 ---
 
 ## Instructies

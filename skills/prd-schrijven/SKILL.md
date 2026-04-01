@@ -14,11 +14,13 @@ triggers:
 
 ## Metadata
 
-**Wanneer activeren:** De gebruiker wil een Product Requirements Document schrijven voor een feature, product of initiative.
+**Doel:** Schrijf een PRD dat engineering, design en stakeholders op één lijn brengt. Een PRD is geen specificatie maar een communicatiemiddel: het maakt expliciet wat je wilt bereiken, welke aannames je maakt, en wat je nog niet weet.
 
-**Dit is geen snelle exercise.** Een goede PRD vraagt grondige voorbereiding. Ik ga diep: veel doorvragen, validatie van aannames, en structurering van onzekerheid.
+**Dit is geen snelle exercise.** Een goede PRD vraagt grondige voorbereiding. Veel doorvragen, validatie van aannames, en structurering van onzekerheid.
 
-**Verschil schaal:** Een kleine feature PRD (afhankelijkheid fix, UI-tweak) is compacter dan een grote initiative PRD (nieuw product, marktexpansie). Ik pas diepgang aan.
+**Aanpak:** 8-sectie structuur. Diepgang past zich aan: een kleine feature PRD (UI-tweak) is compacter dan een initiative PRD (nieuw product, marktexpansie).
+
+**Output:** Volledig PRD in markdown met probleemstelling, doelgroep, hypotheses, requirements, aannames en risico's.
 
 ---
 

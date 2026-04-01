@@ -28,8 +28,6 @@ triggers:
 **Aanpak:** Stel situatievragen over hoe de gebruiker omgaat met backlog, stakeholders, team en beslissingen. Herken patronen die passen bij de 6 misunderstood stances. Koppel elke herkenning aan de bijpassende preferred stance met concrete verschuivingstips.
 **Output:** Stances-diagnose in markdown: welke stances spelen er, waarom dat problematisch is, welke preferred stances passen, en concrete acties om te verschuiven.
 
-**Duur:** 15-30 minuten (afhankelijk van hoeveel stances je wilt verkennen).
-
 ---
 
 ## Instructies
@@ -282,6 +280,14 @@ Lever het volgende op:
 - **Alleen preferred stances benoemen zonder concrete actie** - "Wees meer een Visionary" is waardeloos zonder de stap die je morgen kunt zetten.
 - **Vergeten dat stances situationeel zijn** - Iemand kan in de ene context een Visionary zijn en in de andere context een Clerk. Vraag door naar verschillende situaties.
 - **Stress-gedrag niet bespreken** - Onder druk vallen mensen terug op hun dominante misunderstood stance. Dat is waar de echte groei zit.
+---
+
+## Zie ook
+
+- **Product-visie** — De Visionary stance vereist een heldere visie. Gebruik deze skill om er een te formuleren.
+- **Product-strategie** — Strategisch denken is de kern van preferred stances. Een goede strategie maakt het makkelijker om uit Clerk- of Project Manager-gedrag te stappen.
+- **Stakeholder-map** — De Influencer en Collaborator stances vereisen dat je weet wie je stakeholders zijn en wat hen drijft.
+
 ---
 
 ## Bronnen

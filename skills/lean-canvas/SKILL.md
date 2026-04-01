@@ -27,8 +27,6 @@ triggers:
 
 **Output:** Ingevuld Lean Canvas (9 blokken), top-3 riskante aannames met aanbevolen validatie.
 
-**Duur:** 30-45 minuten voor een eerste versie. Itereer na elk klantgesprek.
-
 ---
 
 ## Instructies

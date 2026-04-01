@@ -29,8 +29,6 @@ triggers:
 
 **Output:** 2-3 persona's met JTBD, gedragspatronen, frustraties en context. Plus: primaire persona-keuze met rationale.
 
-**Duur:** 60-90 minuten voor goed werk. Vereist minimaal 5-8 klantinterviews als input.
-
 ---
 
 ## Instructies

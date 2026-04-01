@@ -22,8 +22,6 @@ triggers:
 
 **Output:** Prioriteised list van 10-15 aannames, top 3 met risico-klassificatie, confidence ratings per aanname (1-5), aanbevolen experiment-type per top-3.
 
-**Duur:** 45-60 minuten voor goed werk.
-
 ---
 
 ## Instructies

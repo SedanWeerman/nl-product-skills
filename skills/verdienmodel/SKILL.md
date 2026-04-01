@@ -12,6 +12,10 @@ triggers:
   - verdienmodellen
   - monetization
   - revenue streams
+  - freemium
+  - abonnementsmodel
+  - subscription model
+  - pricing model
 ---
 
 # Verdienmodel
@@ -28,8 +32,6 @@ triggers:
 **Aanpak:** Begin bij je doelgroep en producttype, niet bij wat concurrenten doen. Evalueer elk model op fit met je waardepropositie, schaalbaarheid en risico. Sluit af met een validatie-experiment per model.
 
 **Output:** 3-5 verdienmodellen met per model: beschrijving, doelgroepfit, risico's, validatie-aanpak en een aanbeveling welk model je eerst test.
-
-**Duur:** 45-60 minuten.
 
 ---
 
@@ -341,6 +343,14 @@ Lever het volgende op:
 - **Geen validatie** — een verdienmodel is een hypothese tot je het hebt getest met echte klanten
 - **Schaal verwarren met nu** — "we doen advertenties net als Google" werkt niet met 500 gebruikers
 - **Gebruiker en betaler verwarren** — bij freemium betaalt 2-5%. Bij B2B is de manager de betaler, niet de gebruiker. Ken het verschil
+
+---
+
+## Zie ook
+
+- **Prijsstrategie** — Nadat je een verdienmodel hebt gekozen: werk het uit naar concrete tiers, prijspunten en validatie.
+- **Lean Canvas** — Het verdienmodel is één blok van je Lean Canvas. Start daar als je het volledige business model wilt schetsen.
+- **Business Model Canvas** — Voor een completer overzicht van alle 9 bouwblokken, inclusief revenue streams.
 
 ---
 

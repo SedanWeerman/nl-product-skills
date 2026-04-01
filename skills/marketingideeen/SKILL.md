@@ -23,8 +23,6 @@ triggers:
 
 **Output:** 5 marketingideeën met per idee: kanaal, doelgroep, messaging, aanpak, kosten-inschatting en verwachte impact.
 
-**Duur:** 45-60 minuten.
-
 ---
 
 ## Instructies

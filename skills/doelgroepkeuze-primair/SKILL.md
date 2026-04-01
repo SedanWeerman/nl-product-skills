@@ -24,8 +24,6 @@ triggers:
 
 **Output:** 3 gerangschikte segmenten, top-1 met rationale, segment-profiel (WHO + WHY + DRIVE).
 
-**Duur:** 45-60 minuten (diepgang, niet snelheid).
-
 ---
 
 ## Instructies

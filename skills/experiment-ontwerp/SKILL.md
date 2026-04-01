@@ -24,8 +24,6 @@ triggers:
 
 **Output:** 1 experiment per aanname met: XYZ hypothesis, succes-drempel, timeline, kosten, implementation-stappen.
 
-**Duur:** 20-30 minuten per experiment (snelle iteraties).
-
 ---
 
 ## Instructies

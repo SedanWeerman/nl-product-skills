@@ -15,6 +15,10 @@ triggers:
   - jtbd
   - jobs to be done
   - forces
+  - leverage statement
+  - customer value
+  - why us
+  - unique value
 ---
 
 # Waardepropositie
@@ -207,6 +211,14 @@ Jij levert af:
 2. **Leverage Statement** (volledige strategische grondslag)
 3. **FORCES-analyse** (tabel of beschrijving van alle 6 forces + implicaties)
 4. **Validatieplan** (hoe gaan we dit testen met klanten?)
+
+---
+
+## Zie ook
+
+- **Positionering** — Vertaal je waardepropositie naar een marktpositie: hoe ben je fundamenteel anders dan concurrenten?
+- **Doelgroepkeuze Primair** — Weet voor wie je waardepropositie is. Zonder scherp segment wordt elke propositie vaag.
+- **Klantinterview** — Valideer je waardepropositie met echte klanten. De propositie is pas goed als klanten knikken.
 
 ---
 

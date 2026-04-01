@@ -29,8 +29,6 @@ triggers:
 
 **Output:** ICP-profiel met firmographics, koopgedrag, signalen en disqualificatie-criteria. Plus: match met huidige klantenbestand.
 
-**Duur:** 60-90 minuten. Beter met klantdata dan zonder.
-
 ---
 
 ## Instructies

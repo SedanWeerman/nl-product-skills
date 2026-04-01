@@ -29,8 +29,6 @@ triggers:
 
 **Output:** Volledig ingevuld BMC met samenhang-analyse en top 3 aandachtspunten.
 
-**Duur:** 60-90 minuten.
-
 ---
 
 ## Instructies

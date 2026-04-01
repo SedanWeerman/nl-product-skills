@@ -1,12 +1,30 @@
 ---
 name: product-strategie
 description: "Ontwikkel een complete productstrategie met het Product Strategy Canvas (9 secties), Seven Powers-analyse en Moat Statement. Gebruik bij strategiebepaling of productrichting."
+tags:
+  - product-strategie
+  - productstrategie
+  - strategy canvas
+  - seven powers
+triggers:
+  - productstrategie
+  - strategisch plan
+  - productrichting
+  - strategy canvas
+  - product strategy
+  - strategiedocument
+  - strategische keuzes
+  - product roadmap strategie
 ---
 # Productstrategie
 
 ## Metadata
-- **Naam**: product-strategie
-- **Triggers**: productstrategie, strategisch plan, productrichting, strategy canvas, product strategy, strategiedocument, strategische keuzes, product roadmap strategie
+
+**Doel:** Ontwikkel een complete productstrategie met het Product Strategy Canvas (9 secties), Seven Powers-analyse en Moat Statement. Strategie is een geïntegreerde set keuzes over WAAR te spelen en HOE te winnen.
+
+**Aanpak:** Begin met doorvragen over context en bestaande kennis. Vul het canvas sectie voor sectie in. Elk onderdeel bouwt voort op het vorige.
+
+**Output:** Ingevuld Product Strategy Canvas, Seven Powers-analyse, Moat Statement en strategische aanbevelingen.
 
 ## Instructies
 

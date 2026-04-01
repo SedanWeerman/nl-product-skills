@@ -62,7 +62,7 @@ Ik wacht op **antwoorden** voordat ik verder ga. Als je onzeker bent → dat is 
 
 ### Fase 2: Business Game Classificatie
 
-Elke business behoort tot een van drie "games". Dit bepaalt je NSM:
+Elk product speelt fundamenteel één van drie "games" — dit concept komt uit het Amplitude North Star Framework en bepaalt welk type metric het beste bij je past. De drie games zijn: **Attention** (media en entertainment), **Transaction** (e-commerce en SaaS) en **Productivity** (samenwerkings- en productiviteitstools). Veel producten combineren games, maar één domineert.
 
 #### Game 1: ATTENTION (Media, Creator, Entertainment)
 **Wie:** News, podcasts, TikTok, Spotify, YouTube, Substack

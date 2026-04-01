@@ -28,8 +28,6 @@ Waarbij Cost of Delay = Business Value + Time Criticality + Risk Reduction / Opp
 
 **Output:** Gerangschikte lijst met scores, rationale per item, en aanbevolen volgorde.
 
-**Duur:** 60-90 minuten voor 8-12 items. Meer items = meer tijd.
-
 ---
 
 ## Instructies

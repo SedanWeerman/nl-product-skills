@@ -49,6 +49,7 @@ SWOT zonder context is waardeloos.
 3. **Relative to what?** (vs. competitors? vs. market opportunity? vs. our capabilities?)
 4. **Who's the customer?** (Which segment? Use case?)
 5. **What's success?** (Grow revenue, defend market share, innovate, pivot?)
+6. **Welke beslissing?** Welke strategische beslissing gaat deze SWOT informeren? Een SWOT zonder beslissingscontext wordt een abstracte lijst.
 
 **Voorbeeld:**
 - Analyzing: AI Co-Pilot feature for PMs

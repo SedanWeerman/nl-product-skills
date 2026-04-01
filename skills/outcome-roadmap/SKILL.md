@@ -27,8 +27,6 @@ triggers:
 
 **Output:** Outcome-roadmap in gekozen format, met per outcome de rationale en mogelijke oplossingsrichtingen.
 
-**Duur:** 45-60 minuten.
-
 ---
 
 ## Instructies
@@ -216,6 +214,15 @@ Lever het volgende op:
 - **De roadmap als contract behandelen** — het is een plan op basis van huidige kennis. Nieuwe inzichten veranderen de roadmap
 - **Nooit updaten** — de roadmap is een levend document. Review minimaal maandelijks
 - **Stakeholders verrassen** — als je de roadmap verandert zonder communicatie, verlies je vertrouwen
+
+---
+
+## Zie ook
+
+- **Product-visie** — De roadmap vertaalt de visie naar concrete stappen. Geen visie = geen richting voor je roadmap.
+- **Product-strategie** — De roadmap is de executie van je strategie. Zorg dat je strategische keuzes helder zijn voordat je prioriteert.
+- **OKRs Formuleren** — Outcomes op je roadmap zouden moeten aansluiten bij je team-OKRs.
+- **North Star Metric** — Je roadmap-outcomes moeten bijdragen aan je North Star. Als dat niet zo is, vraag je af waarom ze erop staan.
 
 ---
 

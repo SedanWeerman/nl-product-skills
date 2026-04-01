@@ -28,8 +28,6 @@ triggers:
 
 **Output:** Dashboard-ontwerp met metrics, visualisatie-type per metric, alertdrempels en review-cadans.
 
-**Duur:** 45-60 minuten.
-
 ---
 
 ## Instructies
@@ -42,6 +40,8 @@ triggers:
 4. **Frequentie**: Hoe vaak kijken ze? (Real-time, dagelijks, wekelijks?)
 5. **Vragen**: Welke vragen moet het dashboard beantwoorden? ("Gaat het goed?", "Waar moeten we ingrijpen?", "Wat is de trend?")
 6. **Tooling**: Welke analytics-tools gebruik je? (Amplitude, Mixpanel, Google Analytics, Metabase, custom?)
+7. **Data-volwassenheid**: Hoe volwassen is je data-infrastructuur? Heb je al event tracking, een data warehouse, of werk je nog met spreadsheets? Dit bepaalt wat realistisch is.
+8. **Onderhoud**: Wie gaat dit dashboard onderhouden? Een dashboard zonder eigenaar wordt binnen een maand genegeerd.
 
 ---
 

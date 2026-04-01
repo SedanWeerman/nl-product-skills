@@ -23,8 +23,6 @@ triggers:
 
 **Output:** 8-12 ideeën vanuit 3 perspectieven, gescoord op impact en haalbaarheid, met top 3 om verder te verkennen.
 
-**Duur:** 45-60 minuten.
-
 ---
 
 ## Instructies
