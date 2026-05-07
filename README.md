@@ -187,7 +187,11 @@ Start met `doelgroepkeuze-primair` om segmenten te scoren op pijn, betalingsbere
 
 ### Hoi, ik ben Stefan.
 
-Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Ik kon veel niet. Met AI kan ik alles.
+Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Oftewel, veel lullen, weinig zelf kunnen.
+
+Althans, dat is wat mensen over dit soort rollen vaak denken. En ja, zo was het ook altijd wel een beetje.
+
+Nu is alles anders. Met AI kan ik alles.
 
 Ik bouw deze skills omdat ik ze zelf nodig heb. En uiteraard mag iedereen ze gebruiken. 
 
