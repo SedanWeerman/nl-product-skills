@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Skills](https://img.shields.io/badge/skills-35-orange.svg)](#wat-zit-erin)
-[![Nederlands](https://img.shields.io/badge/taal-Nederlands-red.svg)](#)
 
 35 Nederlandstalige Product Management skills. 
 
